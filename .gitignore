@@ -33,4 +33,8 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
+<<<<<<< HEAD
 /cache.json
+=======
+inputs
+>>>>>>> 762ce480 (update ignore folders)
