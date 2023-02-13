@@ -38,3 +38,4 @@ notification.mp3
 =======
 inputs
 >>>>>>> 762ce480 (update ignore folders)
+/cache.json.lock
